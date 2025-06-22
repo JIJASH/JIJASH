@@ -2,7 +2,10 @@
 
 
 <h3 align="center">Bridging Automation with Intelligence | GCP • Python • RPA • AI/ML</h3>
-<br>
+<br clear="both">
+
+<h2 align="left">Skills</h2>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -37,7 +40,14 @@
 
 - ⚡ Fun fact **I once deployed an OCR pipeline while my coffee was still brewing ☕📦**
 
-<br><br>
+<br>
+
+
+<img src="https://raw.githubusercontent.com/JIJASH/JIJASH/output/snake.svg" alt="Snake animation" />
+
+<br clear="both">
+
+<h2 align="left">Social</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/jijash-shrestha-707bb3223/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -47,10 +57,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/JIJASH/JIJASH/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
