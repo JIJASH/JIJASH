@@ -34,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
 </div>
 
-- 🌱 I’m currently learning **Gen AI, MLOPS**
+- 🌱 I’m currently learning **LLM, MLOPS**
 
 - 📫 How to reach me **jijashstha001@gmail.com**
 
